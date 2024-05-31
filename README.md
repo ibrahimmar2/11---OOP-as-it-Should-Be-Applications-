@@ -48,18 +48,12 @@ By the end of this course, participants will be able to:
 - Static members
 - Exception handling in OOP
 
-### Week 7: Design Patterns
-- Introduction to design patterns
-- Creational patterns
-- Structural patterns
-- Behavioral patterns
-
-### Week 8: Real-World Applications
+### Week 7: Real-World Applications
 - Applying OOP to real-world problems
 - Case studies and examples
 - Best practices in OOP
 
-### Week 9: Project Work
+### Week 8: Project Work
 - Building a complete application using OOP
 - Code review and feedback
 - Presentation of projects
